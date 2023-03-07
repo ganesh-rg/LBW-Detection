@@ -25,7 +25,18 @@ So we try to track not only the ball, but also the pitch and batsman.Also, since
 \
 \
 \
-![alt text]()
+Pitch
+![alt text]("https://github.com/ganesh-rg/LBW-Detection/blob/main/Images/pitch.png")
+\
+Ball Detection
+![alt text]("https://github.com/ganesh-rg/LBW-Detection/blob/main/Images/ball_detect.png")
+\
+Pitch Detection
+![alt text]("https://github.com/ganesh-rg/LBW-Detection/blob/main/Images/pitch_detect.png")
+\
+All in one
+![alt text]("https://github.com/ganesh-rg/LBW-Detection/blob/main/Images/Final.png")
+
 
 
 
